@@ -9,8 +9,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 # Google search URL
 GOOGLE_SEARCH_URL = 'https://www.google.com/search'
 
-# Your search query
-query = 'merlot win buy'
+$$$$$$$$$$$$$
+$$$HIRE ME$$$
+$$$$$$$$$$$$$
 
 # Headers to simulate a real user visit
 headers = {
